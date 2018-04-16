@@ -1,4 +1,6 @@
---Just simple experiments with GIT
+--Just simple experiments with GIT & GitHub
 --one line
 --two line
 --tre line
+--for line
+--fiv line

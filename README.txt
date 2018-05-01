@@ -7,3 +7,4 @@
 --six line
 --sev line
 --eig line
+--nin line

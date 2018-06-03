@@ -1,4 +1,4 @@
---Just simple experiments with GIT & GitHub and Branches etc.
+--Just simple experiments with GIT & GitHub and Branches.
 --one line--
 --two line
 --tre line
